@@ -1,0 +1,6 @@
+Key Insights from Superstore Sales Dashboard
+
+1. West region generated the highest total sales among all regions.
+2. Technology category contributed the largest share of sales compared to Furniture and Office Supplies.
+3. Sales peaked during March, showing a strong year-end buying trend.
+4. South region had relatively lower profit margins despite moderate sales volume.
