@@ -7,7 +7,7 @@ The dashboard is designed to help business stakeholders understand key performan
 
 🔗 **Dataset Used**  
 
-Source: Kaggle – Superstore Sales Dataset  
+Source: [Kaggle – Superstore Sales Dataset](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)   
 Fields Used: Category, Sub-Category, Sales, Profit, Region, Quantity, Order Date  
 
 🔍 **Features:**  
